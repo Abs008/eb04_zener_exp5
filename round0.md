@@ -37,10 +37,10 @@ i.e.
 
 
 ## Target Audience:
-  Electronics & Communication/Electronics & Instrumentation/Computer Electronics
+  Electronics & Communication/Electronics & Instrumentation/Computer Electronics/Electronics Engineering
 
 ## Course Alignment:
-  Electronics & Communication- Digital Electronics
+  Electronics & Communication/Electronics & Instrumentation/Computer Electronics/Electronics Engineering-Analog Electronics
 
 
 ## Universities Mapped:
