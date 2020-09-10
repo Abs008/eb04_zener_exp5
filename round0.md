@@ -59,7 +59,7 @@ i.e.
 |------------ | --------------------------- |
 | Institute	  |  Hindustan College of Science and Technology Mathura |
 | Email id	    |  tss.senthil.hcst@sgei.org |
-| Department	  |  Electronics and Communication Engineering |
+| Department	  |  Head Institute Industry Interface Program |
 
 
 
